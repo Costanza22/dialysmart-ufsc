@@ -6,6 +6,10 @@ Universidade Federal de Santa Catarina
 Centro de Ciências da Saúde  
 Programa de Pós-Graduação em Informática em Saúde
 
+## Documentação
+
+- [Dicionário de dados (rascunho para Tasy)](docs/dicionario-dados.md) — variáveis, papéis no modelo e colunas a preencher após acesso ao prontuário.
+
 ## Código-fonte
 
 Repositório no GitHub: [github.com/Costanza22/dialysmart-ufsc](https://github.com/Costanza22/dialysmart-ufsc)
