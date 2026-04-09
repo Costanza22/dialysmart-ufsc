@@ -1,12 +1,12 @@
 # HemoGuard UFSC
 
-UNIVERSIDADE FEDERAL DE SANTA CATARINA  
-CENTRO DE CIENCIAS DA SAUDE  
-PROGRAMA DE POS-GRADUACAO EM INFORMATICA EM SAUDE
+Universidade Federal de Santa Catarina  
+Centro de Ciências da Saúde  
+Programa de Pós-Graduação em Informática em Saúde
 
 ## Projeto de Mestrado
 
-**DESENVOLVIMENTO E AVALIACAO DE UM APLICATIVO MOVEL BASEADO EM INTELIGENCIA ARTIFICIAL PARA PREDICAO DE INSTABILIDADE HEMODINAMICA EM PACIENTES SUBMETIDOS A HEMODIALISE**
+**Desenvolvimento e avaliação de um aplicativo móvel baseado em inteligência artificial para predição de instabilidade hemodinâmica em pacientes submetidos à hemodiálise**
 
 **Linha de Pesquisa 1:** Tecnologia da Informacao e Comunicacao em Saude / eSaude  
 **Local e ano:** Florianopolis, 2026
