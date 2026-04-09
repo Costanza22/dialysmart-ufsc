@@ -8,7 +8,7 @@ Programa de Pós-Graduação em Informática em Saúde
 
 ## Código-fonte
 
-Repositório no GitHub: [github.com/Costanza22/hemo-guard-ufsc](https://github.com/Costanza22/hemo-guard-ufsc)
+Repositório no GitHub: [github.com/Costanza22/dialysmart-ufsc](https://github.com/Costanza22/dialysmart-ufsc)
 
 O slug do repositório pode ser renomeado depois nas configurações do GitHub; o nome do produto é **DialySmart**.
 
