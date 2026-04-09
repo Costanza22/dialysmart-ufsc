@@ -14,6 +14,8 @@ Programa de Pós-Graduação em Informática em Saúde
 
 Repositório no GitHub: [github.com/Costanza22/dialysmart-ufsc](https://github.com/Costanza22/dialysmart-ufsc)
 
+O nome do produto é **DialySmart**; o repositório pode usar outro slug (ex.: `dialysmart-ufsc`).
+
 ## Projeto de Mestrado
 
 **Desenvolvimento e avaliação de um aplicativo móvel baseado em inteligência artificial para predição de instabilidade hemodinâmica em pacientes submetidos à hemodiálise**
