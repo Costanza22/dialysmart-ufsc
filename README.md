@@ -8,44 +8,44 @@ Programa de Pós-Graduação em Informática em Saúde
 
 **Desenvolvimento e avaliação de um aplicativo móvel baseado em inteligência artificial para predição de instabilidade hemodinâmica em pacientes submetidos à hemodiálise**
 
-**Linha de Pesquisa 1:** Tecnologia da Informacao e Comunicacao em Saude / eSaude  
-**Local e ano:** Florianopolis, 2026
+**Linha de Pesquisa 1:** Tecnologia da Informação e Comunicação em Saúde / eSaúde  
+**Local e ano:** Florianópolis, 2026
 
-## Introducao
+## Introdução
 
-A Doenca Renal Cronica (DRC) e um problema relevante de saude publica. Em estagios avancados, a hemodialise e essencial, mas pode apresentar complicacoes intradialiticas frequentes, especialmente hipotensao.  
-Este projeto propoe uma abordagem preditiva baseada em Inteligencia Artificial para antecipar instabilidade hemodinamica durante as sessoes, apoiando a tomada de decisao clinica e a seguranca do paciente no contexto assistencial.
+A Doença Renal Crônica (DRC) é um problema relevante de saúde pública. Em estágios avançados, a hemodiálise é essencial, mas pode apresentar complicações intradialíticas frequentes, especialmente hipotensão.  
+Este projeto propõe uma abordagem preditiva baseada em Inteligência Artificial para antecipar instabilidade hemodinâmica durante as sessões, apoiando a tomada de decisão clínica e a segurança do paciente no contexto assistencial.
 
 ## Objetivo geral
 
-Desenvolver um aplicativo movel com IA para predicao precoce de instabilidade hemodinamica em sessoes de hemodialise.
+Desenvolver um aplicativo móvel com IA para predição precoce de instabilidade hemodinâmica em sessões de hemodiálise.
 
-## Objetivos especificos
+## Objetivos específicos
 
-- Desenvolver e validar modelo preditivo com variaveis clinicas (pressao arterial, frequencia cardiaca, ultrafiltracao, ganho interdialitico e peso seco).
-- Integrar o modelo a uma interface clinica com alertas estratificados (preventivo e critico).
-- Avaliar desempenho com metricas como acuracia, sensibilidade, especificidade, AUC-ROC e taxa de falsos positivos.
-- Avaliar usabilidade e aplicabilidade clinica da ferramenta em ambiente real ou simulado.
-- Analisar viabilidade tecnica e operacional no servico de nefrologia.
+- Desenvolver e validar modelo preditivo com variáveis clínicas (pressão arterial, frequência cardíaca, ultrafiltração, ganho interdialítico e peso seco).
+- Integrar o modelo a uma interface clínica com alertas estratificados (preventivo e crítico).
+- Avaliar desempenho com métricas como acurácia, sensibilidade, especificidade, AUC-ROC e taxa de falsos positivos.
+- Avaliar usabilidade e aplicabilidade clínica da ferramenta em ambiente real ou simulado.
+- Analisar viabilidade técnica e operacional no serviço de nefrologia.
 
 ## Metodologia (resumo)
 
-- **Fase 1 - Retrospectiva:** treinamento e validacao com dados historicos anonimizados.
+- **Fase 1 - Retrospectiva:** treinamento e validação com dados históricos anonimizados.
 - **Fase 2 - Piloto prospectivo:** uso assistido do app com equipe multiprofissional.
 - Algoritmos candidatos: Random Forest, SVM e LSTM.
-- Arquitetura prevista: microsservicos, API segura (HTTPS/SSL), interoperabilidade com HL7 FHIR.
-- Dados oriundos do prontuario eletronico institucional (Tasy), com anonimização conforme LGPD.
+- Arquitetura prevista: microsserviços, API segura (HTTPS/SSL), interoperabilidade com HL7 FHIR.
+- Dados oriundos do prontuário eletrônico institucional (Tasy), com anonimização conforme LGPD.
 
 ## Resultados esperados
 
-- Predicao antecipada de risco de instabilidade hemodinamica.
-- Apoio a intervencoes preventivas durante a sessao.
-- Reducao de eventos adversos e melhora da seguranca do paciente.
-- Evidencia de viabilidade de uso de IA em nefrologia no SUS.
+- Predição antecipada de risco de instabilidade hemodinâmica.
+- Apoio a intervenções preventivas durante a sessão.
+- Redução de eventos adversos e melhora da segurança do paciente.
+- Evidência de viabilidade de uso de IA em nefrologia no SUS.
 
-## Escopo tecnico atual do repositorio
+## Escopo técnico atual do repositório
 
-Este repositorio contem a base inicial de software para o produto digital:
+Este repositório contém a base inicial de software para o produto digital:
 
 - `Next.js` (App Router)
 - `TypeScript`
@@ -74,8 +74,8 @@ npm run dev
 
 Abra [http://localhost:3000](http://localhost:3000).
 
-## Etica e conformidade
+## Ética e conformidade
 
-- Projeto sujeito a aprovacao no CEP (Resolucao CNS 466/2012).
+- Projeto sujeito a aprovação no CEP (Resolução CNS 466/2012).
 - Tratamento de dados em conformidade com a LGPD (Lei 13.709/2018).
-- Esta aplicacao e um prototipo de pesquisa e **nao** substitui julgamento clinico.
+- Esta aplicação é um protótipo de pesquisa e **não** substitui julgamento clínico.
