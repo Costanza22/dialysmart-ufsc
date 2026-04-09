@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HemoGuard UFSC",
+  title: "DialySmart",
   description:
-    "Protótipo de pesquisa: predição de instabilidade hemodinâmica em hemodiálise (mestrado UFSC).",
+    "DialySmart — protótipo de pesquisa (UFSC): predição de instabilidade hemodinâmica em hemodiálise.",
 };
 
 export default function RootLayout({

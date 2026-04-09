@@ -21,7 +21,7 @@ export function SessaoView() {
         <header className="mb-8 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <p className="text-sm font-medium text-zinc-500 dark:text-zinc-400">
-              HemoGuard UFSC
+              DialySmart
             </p>
             <h1 className="text-2xl font-semibold text-zinc-900 dark:text-zinc-50">
               Sessão de hemodiálise

@@ -1,8 +1,16 @@
-# HemoGuard UFSC
+# DialySmart
+
+Aplicativo (protótipo) para apoio à predição de instabilidade hemodinâmica em hemodiálise — projeto de mestrado em Informática em Saúde (UFSC).
 
 Universidade Federal de Santa Catarina  
 Centro de Ciências da Saúde  
 Programa de Pós-Graduação em Informática em Saúde
+
+## Código-fonte
+
+Repositório no GitHub: [github.com/Costanza22/hemo-guard-ufsc](https://github.com/Costanza22/hemo-guard-ufsc)
+
+O slug do repositório pode ser renomeado depois nas configurações do GitHub; o nome do produto é **DialySmart**.
 
 ## Projeto de Mestrado
 
@@ -55,7 +63,7 @@ Este repositório contém a base inicial de software para o produto digital:
 ### Estrutura inicial
 
 ```text
-hemo-guard-ufsc/
+dialysmart/
   public/
   src/
     app/
